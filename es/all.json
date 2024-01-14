@@ -1,0 +1,37 @@
+{
+  "LANGUAGE": {
+    "LANGUAGE_WORD": "Idioma"
+  },
+  "COMMON": {
+    "ACTIONS": {
+      "CREATE": "Crear",
+      "REMOVE": "Remover",
+      "DELETE": "Eliminar",
+      "EDIT": "Editar",
+      "DUPLICATE": "Duplicar",
+      "APPLY": "Aplicar",
+      "UPDATE": "Actualizar",
+      "HIDE": "Ocultar"
+    }
+  },
+  "SETTINGS": {
+    "ACCOUNT": {
+      "PROFILE_TITLE": "Perfil",
+      "MY_PROFILE": "Mi Perfil",
+      "PROFILE": {
+        "KEYWORDS": "Perfil Personal de Usuario"
+      },
+      "IMPORT_EXPORT_TITLE": "Importar y Exportar",
+      "NAVIGATION_TITLE": "Navegación",
+      "AUTHENTICATION_TITLE": "Autenticación",
+      "ADVANCED_TITLE": "Configuraciones Avanzadas",
+      "ADVANCED": {
+        "KEYWORDS": "Soporte Reconectar Buscar Corregir Error"
+      },
+      "DANGER_ZONE_TITLE": "Zona de Peligro",
+      "DANGER_ZONE": {
+        "TITLE": "Zona de Peligro"
+      }
+    }
+  }
+}
